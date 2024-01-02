@@ -1,4 +1,4 @@
-This is my first big and very challenging project i have ever made, by the help of one youtube channel, As per now i knew there is no huge and great stuffs of android compared to web app, and also that is 
+This is my first and very challenging project i have ever made, by the help of one youtube channel, As per now i knew there is no huge and great stuffs of android compared to web app, and also that is 
 not an excuse (There are many channels who just write code and not at all explain) excluding all of this Here is what i made;
 
 Code : Java (Packages: Fragments, Adapter, Util, RecyclerView, etc)
